@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "dask-demo"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+dask = {extras = ["distributed"], version = "^2022.4.1"}
+jupyterlab = "^3.3.4"
+bokeh = "^2.4.2"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
