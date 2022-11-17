@@ -1,0 +1,104 @@
+[I 22:07:19.176 NotebookApp] Writing notebook server cookie secret to /home/vscode/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 2022-11-17 22:07:23.151 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-11-17 22:07:23.152 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-11-17 22:07:23.152 LabApp] 'allow_root' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-11-17 22:07:23.152 LabApp] 'allow_root' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-11-17 22:07:23.166 LabApp] JupyterLab extension loaded from /opt/conda/lib/python3.9/site-packages/jupyterlab
+[I 2022-11-17 22:07:23.166 LabApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[I 22:07:23.174 NotebookApp] Serving notebooks from local directory: /workspaces/dask-demo
+[I 22:07:23.174 NotebookApp] Jupyter Notebook 6.4.8 is running at:
+[I 22:07:23.174 NotebookApp] http://codespaces-c4eb6e:8888/?token=d0010300ab98745a14a5ee432f3e63f6c05ecd548495589a
+[I 22:07:23.174 NotebookApp]  or http://127.0.0.1:8888/?token=d0010300ab98745a14a5ee432f3e63f6c05ecd548495589a
+[I 22:07:23.174 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 22:07:23.185 NotebookApp] No web browser found: could not locate runnable browser.
+[C 22:07:23.187 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/vscode/.local/share/jupyter/runtime/nbserver-607-open.html
+    Or copy and paste one of these URLs:
+        http://codespaces-c4eb6e:8888/?token=d0010300ab98745a14a5ee432f3e63f6c05ecd548495589a
+     or http://127.0.0.1:8888/?token=d0010300ab98745a14a5ee432f3e63f6c05ecd548495589a
+[I 22:14:48.208 NotebookApp] 302 GET / (127.0.0.1) 0.530000ms
+[I 22:14:48.254 NotebookApp] 302 GET /tree? (127.0.0.1) 0.640000ms
+[I 22:17:24.048 NotebookApp] Writing notebook server cookie secret to /home/vscode/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 2022-11-17 22:17:28.114 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-11-17 22:17:28.121 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-11-17 22:17:28.122 LabApp] 'allow_root' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-11-17 22:17:28.122 LabApp] 'allow_root' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-11-17 22:17:28.147 LabApp] JupyterLab extension loaded from /opt/conda/lib/python3.9/site-packages/jupyterlab
+[I 2022-11-17 22:17:28.153 LabApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[I 22:17:28.160 NotebookApp] Serving notebooks from local directory: /workspaces/dask-demo
+[I 22:17:28.164 NotebookApp] Jupyter Notebook 6.4.8 is running at:
+[I 22:17:28.164 NotebookApp] http://codespaces-8e75e9:8888/?token=9bc2462c053cc1a9167b5b79b9dcd9175382a9a1b76f903a
+[I 22:17:28.164 NotebookApp]  or http://127.0.0.1:8888/?token=9bc2462c053cc1a9167b5b79b9dcd9175382a9a1b76f903a
+[I 22:17:28.164 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 22:17:28.173 NotebookApp] No web browser found: could not locate runnable browser.
+[C 22:17:28.176 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/vscode/.local/share/jupyter/runtime/nbserver-672-open.html
+    Or copy and paste one of these URLs:
+        http://codespaces-8e75e9:8888/?token=9bc2462c053cc1a9167b5b79b9dcd9175382a9a1b76f903a
+     or http://127.0.0.1:8888/?token=9bc2462c053cc1a9167b5b79b9dcd9175382a9a1b76f903a
+[I 22:18:39.607 NotebookApp] 302 GET /?token=9bc2462c053cc1a9167b5b79b9dcd9175382a9a1b76f903a (127.0.0.1) 0.860000ms
+[I 22:18:45.944 NotebookApp] Writing notebook-signing key to /home/vscode/.local/share/jupyter/notebook_secret
+[W 22:18:45.945 NotebookApp] Notebook dask_demo/dashboard-demonstration.ipynb is not trusted
+[W 22:18:46.129 NotebookApp] Blocking Cross Origin API request for /api/sessions.  Origin: https://schlich-glorious-succotash-pjxx5p5rxjrc6g9j-8888.preview.app.github.dev, Host: localhost
+[W 22:18:46.130 NotebookApp] Not Found
+[W 22:18:46.130 NotebookApp] 404 POST /api/sessions (127.0.0.1) 1.660000ms referer=https://schlich-glorious-succotash-pjxx5p5rxjrc6g9j-8888.preview.app.github.dev/notebooks/dask_demo/dashboard-demonstration.ipynb
+[I 22:20:54.540 NotebookApp] Writing notebook server cookie secret to /home/vscode/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 2022-11-17 22:20:55.308 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-11-17 22:20:55.308 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-11-17 22:20:55.308 LabApp] 'allow_root' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-11-17 22:20:55.308 LabApp] 'allow_root' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-11-17 22:20:55.320 LabApp] JupyterLab extension loaded from /opt/conda/lib/python3.9/site-packages/jupyterlab
+[I 2022-11-17 22:20:55.320 LabApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[I 22:20:55.326 NotebookApp] Serving notebooks from local directory: /workspaces/dask-demo
+[I 22:20:55.326 NotebookApp] Jupyter Notebook 6.4.8 is running at:
+[I 22:20:55.326 NotebookApp] http://codespaces-467a83:8888/?token=1ce3f12bba3ce4ba73f1eadc06b7261e5ac5f26946164d51
+[I 22:20:55.326 NotebookApp]  or http://127.0.0.1:8888/?token=1ce3f12bba3ce4ba73f1eadc06b7261e5ac5f26946164d51
+[I 22:20:55.326 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 22:20:55.331 NotebookApp] No web browser found: could not locate runnable browser.
+[C 22:20:55.331 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/vscode/.local/share/jupyter/runtime/nbserver-609-open.html
+    Or copy and paste one of these URLs:
+        http://codespaces-467a83:8888/?token=1ce3f12bba3ce4ba73f1eadc06b7261e5ac5f26946164d51
+     or http://127.0.0.1:8888/?token=1ce3f12bba3ce4ba73f1eadc06b7261e5ac5f26946164d51
+[W 22:20:55.407 NotebookApp] Clearing invalid/expired login cookie username-localhost
+[W 22:20:55.407 NotebookApp] Forbidden
+[W 22:20:55.408 NotebookApp] 403 GET /api/terminals?_=1668723520249 (127.0.0.1) 1.610000ms referer=https://schlich-glorious-succotash-pjxx5p5rxjrc6g9j-8888.preview.app.github.dev/tree/dask_demo
+[W 22:20:55.409 NotebookApp] Clearing invalid/expired login cookie username-localhost
+[W 22:20:55.409 NotebookApp] Forbidden
+[W 22:20:55.410 NotebookApp] 403 GET /api/sessions?_=1668723520248 (127.0.0.1) 1.010000ms referer=https://schlich-glorious-succotash-pjxx5p5rxjrc6g9j-8888.preview.app.github.dev/tree/dask_demo
+[W 22:21:15.776 NotebookApp] Forbidden
+[W 22:21:15.777 NotebookApp] 403 GET /api/sessions?_=1668723520250 (127.0.0.1) 1.110000ms referer=https://schlich-glorious-succotash-pjxx5p5rxjrc6g9j-8888.preview.app.github.dev/tree/dask_demo
+[W 22:21:15.778 NotebookApp] Forbidden
+[W 22:21:15.778 NotebookApp] 403 GET /api/terminals?_=1668723520251 (127.0.0.1) 0.810000ms referer=https://schlich-glorious-succotash-pjxx5p5rxjrc6g9j-8888.preview.app.github.dev/tree/dask_demo
+[I 22:21:25.778 NotebookApp] 302 GET / (127.0.0.1) 0.450000ms
+[I 22:21:25.913 NotebookApp] 302 GET /tree? (127.0.0.1) 0.530000ms
+[I 22:21:37.016 NotebookApp] 302 GET /?token=1ce3f12bba3ce4ba73f1eadc06b7261e5ac5f26946164d51 (127.0.0.1) 0.420000ms
+[I 22:21:51.843 NotebookApp] Writing notebook-signing key to /home/vscode/.local/share/jupyter/notebook_secret
+[W 22:21:51.844 NotebookApp] Notebook dask_demo/dashboard-demonstration.ipynb is not trusted
+[W 22:21:52.050 NotebookApp] Blocking Cross Origin API request for /api/sessions.  Origin: https://schlich-glorious-succotash-pjxx5p5rxjrc6g9j-8888.preview.app.github.dev, Host: localhost
+[W 22:21:52.051 NotebookApp] Not Found
+[W 22:21:52.051 NotebookApp] 404 POST /api/sessions (127.0.0.1) 1.200000ms referer=https://schlich-glorious-succotash-pjxx5p5rxjrc6g9j-8888.preview.app.github.dev/notebooks/dask_demo/dashboard-demonstration.ipynb
+[W 22:21:59.355 NotebookApp] Blocking Cross Origin API request for /api/contents/dask_demo/dashboard-demonstration.ipynb.  Origin: https://schlich-glorious-succotash-pjxx5p5rxjrc6g9j-8888.preview.app.github.dev, Host: localhost
+[W 22:21:59.356 NotebookApp] Not Found
+[W 22:21:59.356 NotebookApp] 404 PUT /api/contents/dask_demo/dashboard-demonstration.ipynb (127.0.0.1) 1.380000ms referer=https://schlich-glorious-succotash-pjxx5p5rxjrc6g9j-8888.preview.app.github.dev/notebooks/dask_demo/dashboard-demonstration.ipynb
+[W 22:22:22.031 NotebookApp] Blocking Cross Origin API request for /api/contents/dask_demo/dashboard-demonstration.ipynb.  Origin: https://schlich-glorious-succotash-pjxx5p5rxjrc6g9j-8888.preview.app.github.dev, Host: localhost
+[W 22:22:22.031 NotebookApp] Not Found
+[W 22:22:22.032 NotebookApp] 404 PUT /api/contents/dask_demo/dashboard-demonstration.ipynb (127.0.0.1) 1.520000ms referer=https://schlich-glorious-succotash-pjxx5p5rxjrc6g9j-8888.preview.app.github.dev/notebooks/dask_demo/dashboard-demonstration.ipynb
+[W 22:22:22.253 NotebookApp] Notebook dask_demo/dashboard-demonstration.ipynb is not trusted
+[W 22:22:22.394 NotebookApp] Blocking Cross Origin API request for /api/sessions.  Origin: https://schlich-glorious-succotash-pjxx5p5rxjrc6g9j-8888.preview.app.github.dev, Host: localhost
+[W 22:22:22.395 NotebookApp] Not Found
+[W 22:22:22.395 NotebookApp] 404 POST /api/sessions (127.0.0.1) 1.430000ms referer=https://schlich-glorious-succotash-pjxx5p5rxjrc6g9j-8888.preview.app.github.dev/notebooks/dask_demo/dashboard-demonstration.ipynb
+[W 22:22:26.020 NotebookApp] Blocking Cross Origin API request for /api/contents/dask_demo/dashboard-demonstration.ipynb.  Origin: https://schlich-glorious-succotash-pjxx5p5rxjrc6g9j-8888.preview.app.github.dev, Host: localhost
+[W 22:22:26.021 NotebookApp] Not Found
+[W 22:22:26.022 NotebookApp] 404 PUT /api/contents/dask_demo/dashboard-demonstration.ipynb (127.0.0.1) 1.490000ms referer=https://schlich-glorious-succotash-pjxx5p5rxjrc6g9j-8888.preview.app.github.dev/notebooks/dask_demo/dashboard-demonstration.ipynb
+[I 22:27:10.741 NotebookApp] 302 GET /?token=1ce3f12bba3ce4ba73f1eadc06b7261e5ac5f26946164d51 (127.0.0.1) 0.470000ms
+[W 22:27:15.630 NotebookApp] Notebook dask_demo/dashboard-demonstration.ipynb is not trusted
+[W 22:27:15.821 NotebookApp] Blocking Cross Origin API request for /api/sessions.  Origin: https://schlich-glorious-succotash-pjxx5p5rxjrc6g9j-8888.preview.app.github.dev, Host: localhost
+[W 22:27:15.821 NotebookApp] Not Found
+[W 22:27:15.822 NotebookApp] 404 POST /api/sessions (127.0.0.1) 1.670000ms referer=https://schlich-glorious-succotash-pjxx5p5rxjrc6g9j-8888.preview.app.github.dev/notebooks/dask_demo/dashboard-demonstration.ipynb
